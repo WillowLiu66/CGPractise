@@ -5,7 +5,7 @@
 - 调整画笔粗细，达到子树枝比主干纤细的效果
 - 添加了树叶
 
-https://github.com/WillowLiu66/CGPractise/blob/master/Turtle/MyTurtleTree.png
+![avatar](https://github.com/WillowLiu66/CGPractise/blob/master/Turtle/MyTurtleTree.png)
 
 代码如下：
 
